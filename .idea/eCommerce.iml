@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/ios/Pods" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/macos/Pods" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/file_selector_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/file_selector_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/file_selector_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/file_selector_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/file_selector_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/file_selector_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/image_picker_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/image_picker_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/image_picker_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/image_picker_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/image_picker_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/image_picker_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/window_size/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/window_size/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/window_size/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/window_size/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/window_size/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/admin_panal_startup/windows/flutter/ephemeral/.plugin_symlinks/window_size/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/shared_preferences_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/client_side/eCommerceApp/windows/flutter/ephemeral/.plugin_symlinks/url_launcher_windows/example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
